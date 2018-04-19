@@ -1,5 +1,6 @@
 # urlguide
 常用链接导航
+
 [TOC]
 
 ### 起因
@@ -13,4 +14,7 @@
 针对特定的目录下添加我们常用的链接
 
 ### 页面效果
-![image](https://)
+![image](https://github.com/huangxifa/urlguide/blob/master/daohang.png)
+
+## 其它
+本项目会使用纯前段技术写的动态的导航站，数据存储使用了浏览器自带的localstorage，因此免去了与后台交互的过程，如果有任何疑问，欢迎留言，谢谢！
